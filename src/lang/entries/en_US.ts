@@ -1,0 +1,10 @@
+import antdEnUS from 'antd/es/locale/en_US';
+import enMsg from '../locales/en_US.json';
+
+const enLang = {
+  antd: antdEnUS,
+  locale: 'en-US',
+  messages: { ...enMsg },
+};
+
+export default enLang;
