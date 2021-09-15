@@ -1,4 +1,4 @@
-# Viltrum React Admin Template v1.0.1
+# Viltrum React Admin Template starterkit v1.0.1
 
 viltrum is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The Viltrum Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – Viltrum covers them all!
 
@@ -66,9 +66,9 @@ viltrum-react-admin-template
 |   |── hooks/       # application hooks
 │   ├── pages/       # application pages
 |   |── routes/      # application routes
-│   ├── App.js
+│   ├── App.tsx
 │   ├── ...
-│   └── index.js
+│   └── index.tsx
 │
 └── package.json
 ```
